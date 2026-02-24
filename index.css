@@ -1,0 +1,26 @@
+h1{
+    color: red;
+}
+h2{
+    color: pink;
+}
+h3{
+    color: blue;
+
+}
+h4{
+    color: violet;
+}
+h5{
+    color: yellow;
+}
+h6{
+    color: green;
+}
+
+
+img{
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+}
